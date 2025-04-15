@@ -1,0 +1,16 @@
+[
+  {
+    "id": 2,
+    "titulo": "Odisea editado",
+    "autor": "Homero",
+    "precio": 135,
+    "anio": 1935
+  },
+  {
+    "id": 1,
+    "titulo": "Padre rico padre pobre",
+    "autor": "Robert Kiyosaki y Sharon Lechter",
+    "precio": 120.5,
+    "anio": 1997
+  }
+]
